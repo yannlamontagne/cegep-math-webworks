@@ -1,0 +1,144 @@
+assignmentType      = default
+openDate          = 09/07/2018 at 11:59pm EDT
+reducedScoringDate = 12/31/1969 at 07:00pm EST
+dueDate           = 12/09/2018 at 09:59pm EST
+answerDate        = 12/09/2018 at 11:59pm EST
+enableReducedScoring = N
+paperHeaderFile   = local/MB_HardcopyHeader.pg
+screenHeaderFile  = local/MB_ScreenHeader.pg
+description       = 
+restrictProbProgression = 0
+emailInstructor   = 0
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = Library/TCNJ/TCNJ_BasesLinearlyIndependentSet/problem7.pg
+value = 1
+max_attempts = 1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 2
+source_file = Library/Rochester/setLinearAlgebra10Bases/ur_la_10_26.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 3
+source_file = Library/Rochester/setLinearAlgebra10Bases/ur_la_10_23.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 4
+source_file = Library/NAU/setLinearAlgebra/expandBasis.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 5
+source_file = Library/Hope/Multi1/03-04-Basis-dim/Basis_05.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 6
+source_file = Library/NAU/setLinearAlgebra/P3subspaceBasis.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 7
+source_file = Library/Rochester/setLinearAlgebra10Bases/ur_la_10_3.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 8
+source_file = Library/Rochester/setLinearAlgebra10Bases/ur_la_10_6.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 9
+source_file = Library/NAU/setLinearAlgebra/coordinatesHalfMagix.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 10
+source_file = Library/WHFreeman/Holt_linear_algebra/Chaps_1-4/4.2.55.pg
+value = 1
+max_attempts = 1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 11
+source_file = Library/WHFreeman/Holt_linear_algebra/Chaps_1-4/4.2.17_21a.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 12
+source_file = Library/WHFreeman/Holt_linear_algebra/Chaps_1-4/4.2.41_47a.pg
+value = 1
+max_attempts = 1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 13
+source_file = Library/WHFreeman/Holt_linear_algebra/Chaps_1-4/2.3.40.pg
+value = 1
+max_attempts = 1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+

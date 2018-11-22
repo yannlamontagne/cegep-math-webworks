@@ -1,0 +1,124 @@
+assignmentType      = default
+openDate          = 08/29/2018 at 11:59pm EDT
+reducedScoringDate = 12/31/1969 at 07:00pm EST
+dueDate           = 10/17/2018 at 11:59pm EDT
+answerDate        = 10/17/2018 at 11:59pm EDT
+enableReducedScoring = N
+paperHeaderFile   = local/MB_HardcopyHeader.pg
+screenHeaderFile  = local/MB_ScreenHeader.pg
+description       = 
+restrictProbProgression = 0
+emailInstructor   = 0
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = Library/TCNJ/TCNJ_Dets_CramersRule_Misc/problem1.pg
+value = 1
+max_attempts = 1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 2
+source_file = Library/maCalcDB/setLinearAlgebra6Determinants/ur_la_6_9.pg
+value = 1
+max_attempts = 1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 3
+source_file = Library/Rochester/setLinearAlgebra6Determinants/ur_la_6_25.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 4
+source_file = Champlain/setDeterminants_bycofactor_byelimination/cfortin_cramer1.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 5
+source_file = Library/Utah/College_Algebra/set12_Matrices_and_Determinants/1050s12p13.pg
+value = 1
+max_attempts = 1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 6
+source_file = Library/Rochester/setLinearAlgebra6Determinants/ur_la_6_1.pg
+value = 1
+max_attempts = 1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 7
+source_file = Library/TCNJ/TCNJ_PropertiesDeterminants/problem9.pg
+value = 1
+max_attempts = 1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 8
+source_file = Library/TCNJ/TCNJ_PropertiesDeterminants/problem7.pg
+value = 1
+max_attempts = 1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 9
+source_file = Library/TCNJ/TCNJ_PropertiesDeterminants/problem8.pg
+value = 1
+max_attempts = 1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 10
+source_file = Library/NAU/setLinearAlgebra/detElementary.pg
+value = 1
+max_attempts = 1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 11
+source_file = Library/Mizzou/Matrix_Theory/HW_5/prob_1.pg
+value = 1
+max_attempts = 1
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+
