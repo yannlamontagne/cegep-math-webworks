@@ -1,8 +1,8 @@
 assignmentType      = default
 openDate          = 08/31/2018 at 11:59pm EDT
 reducedScoringDate = 12/31/1969 at 07:00pm EST
-dueDate           = 10/24/2018 at 11:59pm EDT
-answerDate        = 10/24/2018 at 11:59pm EDT
+dueDate           = 10/20/2019 at 10:00pm EDT
+answerDate        = 10/20/2019 at 10:00pm EDT
 enableReducedScoring = N
 paperHeaderFile   = local/MB_HardcopyHeader.pg
 screenHeaderFile  = local/MB_ScreenHeader.pg

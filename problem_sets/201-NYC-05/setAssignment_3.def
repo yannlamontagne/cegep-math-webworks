@@ -1,8 +1,8 @@
 assignmentType      = default
 openDate          = 08/28/2018 at 11:59pm EDT
 reducedScoringDate = 12/31/1969 at 07:00pm EST
-dueDate           = 09/19/2018 at 11:59pm EDT
-answerDate        = 09/19/2018 at 11:59pm EDT
+dueDate           = 09/15/2019 at 10:00pm EDT
+answerDate        = 09/15/2019 at 10:00pm EDT
 enableReducedScoring = N
 paperHeaderFile   = local/MB_HardcopyHeader.pg
 screenHeaderFile  = local/MB_ScreenHeader.pg
@@ -173,7 +173,7 @@ att_to_open_children = 0
 problem_end
 problem_start
 problem_id = 17
-source_file = Library/ASU-topics/set119MatrixAlgebra/p16.pg
+source_file = local/Library/ASU-topics/set119MatrixAlgebra/p16.pg
 value = 1
 max_attempts = 1
 showMeAnother = -1
